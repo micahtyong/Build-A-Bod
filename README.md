@@ -57,6 +57,10 @@ In the future, we plan to extend our app’s functionality to include a wide var
 
 The Build-A-Bod team is looking to integrate the Open Source Computer Vision Library into our project and would like further mentorship/guidance from machine learning and computer vision experts. If this is a project that possibly interests you, email me at micahtyong@gmail.com !
 
+## Recognition ## 
+
+This application received recognition from [Google Cloud for Higher Education](https://edu.google.com/products/google-cloud-platform/ "GCP for Higher Education"). We were interviewed and supported by Arman from the Google Cloud's Higher Education Marketing team.
+
 ## Credits ## 
 
 This is an original project idea by Micah Yong, Aditya Ramkumar, Maxwell Chan, and Umang Srivastav. 
